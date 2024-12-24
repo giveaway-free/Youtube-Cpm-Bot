@@ -1,0 +1,2 @@
+:nth-child(3) > button > c3-icon > span > div
+#search-input > input

@@ -1,2 +1,0 @@
-#dismiss-button > yt-button-shape > button > yt-touch-feedback-shape > :nth-child(1) > :nth-child(2)
-#subscribe-button-shape > button > yt-touch-feedback-shape > :nth-child(1) > :nth-child(2)

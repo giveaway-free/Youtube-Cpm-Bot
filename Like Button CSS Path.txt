@@ -1,1 +1,0 @@
-like-button-view-model > toggle-button-view-model > button-view-model > yt-button-shape > button > yt-touch-feedback-shape > :nth-child(1) > :nth-child(2)

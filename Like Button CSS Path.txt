@@ -1,0 +1,2 @@
+#top-level-buttons-computed > segmented-like-dislike-button-view-model > yt-smartimation > div > div > like-button-view-model > toggle-button-view-model > button-view-model > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__stroke
+like-button-view-model > toggle-button-view-model > button-view-model > yt-button-shape > button > yt-touch-feedback-shape > :nth-child(1) > :nth-child(2)

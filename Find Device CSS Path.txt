@@ -1,0 +1,5 @@
+:nth-child(3) > button > c3-icon > span > div
+form > input
+yt-searchbox > :nth-child(1)
+#search-button-narrow > button > yt-icon > span > div
+#center

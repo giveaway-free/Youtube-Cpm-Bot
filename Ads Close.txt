@@ -1,0 +1,11 @@
+#skip-button\3A 6 > :nth-child(1) > button
+#skip-button\3A y > :nth-child(1) > button
+#skip-button\3A 5 > :nth-child(1) > button
+#skip-button\3A l > span
+#skip-button\3A 3 > :nth-child(1) > button
+#skip-button\3A 2
+#skip-button\3A w
+#skip-button\3A g
+#skip-button\3A x
+#skip-button\3A i
+#skip-button\3A 1f

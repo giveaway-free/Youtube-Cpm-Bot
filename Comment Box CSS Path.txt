@@ -1,0 +1,3 @@
+#simplebox-placeholder
+#contenteditable-root
+:nth-child(2) > div > button > span

@@ -1,0 +1,2 @@
+#submit-button > yt-button-shape > button > yt-touch-feedback-shape > :nth-child(1) > :nth-child(2)
+ytm-comment-simplebox-renderer > :nth-child(2) > :nth-child(2) > :nth-child(2) > yt-button-shape > button > yt-touch-feedback-shape > :nth-child(1) > :nth-child(2)
